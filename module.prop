@@ -1,0 +1,6 @@
+id=aacenabler
+name=AAC Enabler
+version=v1
+versionCode=1
+author=Raspberry Kan
+description=Enable Bluetooth AAC for unlisted headphones.
